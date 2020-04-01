@@ -1,5 +1,5 @@
 {
-  "posts": {"id": 1,
-    "name": "json-server",
-    "company": "tata"}
+  "posts": {"userId": 1,
+    "title": "json-server",
+    "text": "tata"}
 }
