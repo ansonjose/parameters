@@ -1,6 +1,7 @@
 {
-  "posts":
-    {"userId": 1,
+  "posts":[
+    {"userId":20,
     "title": "json-server",
     "text": "tata"}
+    ]
 }
